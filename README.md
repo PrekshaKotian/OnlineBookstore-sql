@@ -1,4 +1,4 @@
-📚 Online Book Store SQL Project
+📚 **Online Book Store SQL Project**
 This project involves designing and querying a relational database for an online book store using SQL. The goal was to extract valuable insights, perform inventory checks, analyze customer behavior, and compute revenue and sales performance using structured queries.
 
 🔍 Project Objectives
