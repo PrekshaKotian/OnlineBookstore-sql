@@ -16,3 +16,11 @@ Highlighted customer demographics and high-spending regions.
 🛠️ Skills & Tools Used
 SQL (SELECT, JOIN, GROUP BY, HAVING, ORDER BY, Subqueries, Aggregate Functions)
 Database Concepts: Normalization, Relationships (e.g., Customers, Orders, Books, Authors)
+
+
+| Table     | Primary Key   | Foreign Keys             |
+| --------- | ------------- | ------------------------ |
+| Customers | `customer_id` | –                        |
+| Books     | `book_id`     | –                        |
+| Orders    | `order_id`    | `customer_id`, `book_id` |
+
